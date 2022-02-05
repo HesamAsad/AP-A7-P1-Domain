@@ -1,5 +1,6 @@
 # Advanced Programming - Assignment #7 - Phase #1 - Spring 2020
 ## University of Tehran
+### UTRIP
 
 This project summarizes what we have learned in the Advanced Programming course. Finally, we have to design a hotel reservation website that will have features such as hotel reservations and getting comments, and points from users.
 
